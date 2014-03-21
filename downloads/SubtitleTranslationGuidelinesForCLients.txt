@@ -1,0 +1,22 @@
+SUBTITLE TRANSLATION GUIDELINES (FOR CLIENTS PRODUCING TRANSLATIONS INHOUSE)
+
+The producer's guidelines will dictate if you may shorten the text where needed to ensure quality subtitles.  
+If you have any doubts or questions please submit the words within the context indicating the subtitle #, suggest the best translation and the producer for confirmation.
+
+IMPORTANT: Before you open ms word template script, please make sure that your macro security settings are set to “médium” in MS Word 2003 When you open it MS word will to ask you whether you want to activate the macros and you need to say YES. If using MS Word 2007, set the macro security settings to “always enabled”).
+ 
+The text in English is the subtitling script which you will need to insert the translation in the empty box right below each title.  To the left of each English title you will see the following (see above as an example):
+ 
+0001 - Subtitle number
+05 :07    - Duration - The title is on-screen for 5 seconds and 7 frames
+01:05 :20:18 - Timecode IN - when the subtitle appears on-screen
+01:05 :24:24 - Timecode OUT - when the subtitle disappears from the screen
+ 
+You will go TAB to TAB to be able to go from one empty box to the next, of course, they won't be empty once you start translating.
+ 
+If there are just a few words in the English file, try to translate in a few words in your language, as well.  Try to match the English in terms of how many characters there are in each subtitle, as that's how many characters an average viewer can read.  Of course,  your language may sometimes take up more characters.  Don't worry if you go a bit more than the English, but just don't go too far over.  With subtitles, don't go more than two lines. 
+ 
+QUALITY ASSURANCE PROCEDURE: Please make sure that you print the script and before delivering, proof the subtitles from the printed document, NOT just from the screen. 
+ 
+PRINTING INSTRUCTIONS: Click on File, Print.  On the page that comes up, the lower right hand corner has an option in “zoom” to “scale to paper size.” This has to be checked. ALSO In Print – Properties – Effects – you have to check “letter” and “scale to fit.” 
+ 
