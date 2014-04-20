@@ -25,15 +25,15 @@
 		<h1>WebVTT Example</h1>
 		<p>(from <a href="http://www.iandevlin.com/blog/2011/05/html5/webvtt-and-video-subtitle">WebVTT and Video Subtitles - iandevlin.com</a>)</p>
 	</header>
-	<p>This video uses the following <a href="upc-video-subtitles-en.vtt">WebVTT file</a>.</p>
+	<p>This video uses the following <a href="test.vtt">WebVTT file</a>.</p>
 	<video id="vTest" class="playr_video" controls preload="metadata">
-			<source src='test3.mp4' type='video/mp4'>
-		<track label="English subtitles" kind="subtitles" srclang="en" src="test.vtt" default>
+			<source src='https://iprobeblob.blob.core.windows.net/archive/test3.mp4' type='video/mp4'>
+		<track label="English subtitles" kind="subtitles" srclang="en" src="https://iprobeblob.blob.core.windows.net/archive/test.vtt" default>
 	</video>
 
 
 	<video controls style="width:640px;height:360px;" poster="poster.png">
-    <source src="test.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"' />
+    <source src="test3.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"' />
     <track src="test.vtt" label="English subtitles" kind="subtitles" srclang="en" default></track>
   </video>
 
