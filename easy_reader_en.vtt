@@ -1,4 +1,11 @@
 ﻿WEBVTT FILE
+Style:
+@import(cea608.css)
+@import(cea708.css)
+##
+Kind: captions
+Language: en-US
+AspectRatio: 16:9
 
 1
 00:00:03.500 --> 00:00:05.000 D:vertical A:start
