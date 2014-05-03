@@ -9,15 +9,15 @@ AspectRatio: 16:9
 
 1
 00:00:00.500 --> 00:00:02.000 D:vertical A:start
-The Web is always <c.red.italics.blink>changing</c>
+<v Tom>The Web is always <c.red.italics.blink>changing</c></v> A:end D:vertical
 
 2
 00:00:02.500 --> 00:00:04.300
-and the way we access it is <c.cursive>changing</c> 
+and the way we access it is <c.cursive>changing</c> A:start T:100% L:0%
 
 3
 00:00:05.000 --> 00:00:07.000
-The source of that change is <c.highlight>you</c>
+The source of that change is <c.highlight>you</c> A:middle T:50%
 
 4
 00:00:07.100 --> 00:00:11.000
