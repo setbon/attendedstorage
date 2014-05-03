@@ -1,7 +1,7 @@
 ﻿WEBVTT FILE
 Style:
-@import (css/cea608.css);
-@import (css/cea708.css);
+@import (cea608.css);
+@import (cea708.css);
 ##
 Kind: captions
 Language: DE
@@ -20,8 +20,8 @@ and the way we access it is <c.cursive>changing</c> A:start T:100% L:0%
 The source of that change is <c.highlight>you</c> A:middle T:50%
 
 4
-00:00:07.100 --> 00:00:11.000
-Developers all around the world who are using our tools to create great new things
+00:00:07.100 --> 00:00:11.000 align:left
+Developers all around the world who are using our tools to create great new things 
 
 5
 00:00:11.200 --> 00:00:13.200
