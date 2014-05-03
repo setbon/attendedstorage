@@ -1,7 +1,7 @@
 ﻿WEBVTT FILE
 Style:
-@import (cea608.css);
-@import (cea708.css);
+@import (css/cea608.css);
+@import (css/cea708.css);
 ##
 Kind: captions
 Language: DE
